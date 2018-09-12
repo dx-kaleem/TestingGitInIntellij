@@ -6,8 +6,9 @@ public class Main {
 
         System.out.println("Hello ");
 
-        my new path from Br
-            This is a new line From Br
+         new path from Br
+            zfdgf
+            fhh
 
     }
 }
