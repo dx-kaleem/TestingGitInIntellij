@@ -6,7 +6,8 @@ public class Main {
 
         System.out.println("Hello ");
 
-        my new 
-            This is a new line branch
+        my new path
+            This is a new line
+
     }
 }
