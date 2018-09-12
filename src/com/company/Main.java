@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Hello ");
 
         my new 
+            This is a new line
     }
 }
