@@ -9,6 +9,7 @@ public class Main {
          new path  
             zfdgf
             fhh
+             hello
 
     }
 }
